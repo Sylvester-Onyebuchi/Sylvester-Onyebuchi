@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can reach on email at Onyisy@gmail.com or sylvesteroyonah@gmail.com. You can also reach me on telephone +385976434229
 - My github link is https://github.com/Sylvester-Onyebuchi
 - 😄 Pronouns: I am the way God made me to be
-- ⚡ Fun fact: You can be good in a particular and still find it hard to finish a project in it
+- ⚡ Fun fact: You can be good in a particular progamming language and still find it hard to finish a project in it
 
 <!---
 Sylvester-Onyebuchi/Sylvester-Onyebuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
