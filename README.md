@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sylvester-Onyebuchi. A young man who is determined and focus on helping the society through programming skils and languages
-- 👀 I’m interested and  grounded on Backend developement in Nodejs
-- 🌱 I’m currently learning learning PHP server side and Golang server side as well
+- 👀 I’m interested and  grounded on Backend developement in Nodejs and java with frameworks like express and springboot
 - 💞️ I’m looking to collaborate on with any company or tech enthusiatic person to join ideas and make changes to the society
 - 📫 How to reach me: You can reach on email at Onyisy@gmail.com or sylvesteroyonah@gmail.com. You can also reach me on telephone +385976434229
 - My github link is https://github.com/Sylvester-Onyebuchi
