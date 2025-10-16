@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sylvester-Onyebuchi. A young man who is determined and focus on helping the society through programming skils and languages
+- 👋 Hi, I’m Sylvester Onyebuchi Onah. A young man who is determined, and focus on helping the society through programming skils and languages
+- I am a student studying Informatics and a sole passionate developer
 - 👀 I’m interested and  grounded on Backend developement in Nodejs and java with frameworks like express and springboot
 - 👀 I’m interested and trying to learn Go language as well
 - 💞️ I’m looking to collaborate on with any company or tech enthusiatic person to join ideas and make changes to the society
