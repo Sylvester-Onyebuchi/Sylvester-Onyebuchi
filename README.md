@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Sylvester Onyebuchi Onah. A young man who is determined, and focus on helping the society through programming skils and languages
+- I’m Sylvester Onyebuchi Onah. A young man who is determined, and focus on helping the society through programming skils and languages
 - I am a student studying Informatics and a sole passionate developer
-- 👀 I’m interested and  grounded on Backend developement in Nodejs and java with frameworks like express and springboot
-- 👀 I’m interested and trying to learn Go language as well
-- 💞️ I’m looking to collaborate on with any company or tech enthusiatic person to join ideas and make changes to the society
-- 📫 How to reach me: You can reach on email at sonyebuch@tvz.hr or sylvesteroyonah@gmail.com. You can also reach me on telephone +385976434229
+- I’m interested and  grounded on Backend developement in Nodejs and java with frameworks like express and springboot
+- I’m interested and trying to learn Go language as well
+- I’m looking to collaborate on with any company or tech enthusiatic person to join ideas and make changes to the society
+- How to reach me: You can reach on email at sonyebuch@tvz.hr or sylvesteroyonah@gmail.com. You can also reach me on telephone +385976434229
 - My github link is https://github.com/Sylvester-Onyebuchi
-- 😄 Pronouns: I am the way God made me to be
-- ⚡ Fun fact: You can be good in a particular progamming language and still find it hard to finish a project in it
+- Pronouns: I am the way God made me to be
+- Fun fact: You can be good in a particular progamming language and still find it hard to finish a project in it
 - Hobbies: Everything about football 
