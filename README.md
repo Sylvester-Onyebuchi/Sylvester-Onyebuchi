@@ -46,7 +46,3 @@ I'm always excited to collaborate on interesting projects and discuss ideas. Fee
 I'm open to freelance work, collaboration on open-source projects, and interesting job opportunities. Let's build something great together!
 
 - Hobbies: Everything about football 
-
----
-
-*Last updated: February 2026*
