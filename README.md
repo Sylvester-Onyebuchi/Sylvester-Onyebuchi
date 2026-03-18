@@ -12,20 +12,8 @@ I'm dedicated to writing clean, efficient code and creating meaningful projects.
 - **Frontend**: React, Vue.js, HTML5, CSS3
 - **Backend**: Springboot, Node.js, Express
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms**: Git, Docker, GitHub, IntelliJ, AWS
+- **Tools & Platforms**: Git, Docker, GitHub, IntelliJ, AWS, RabbitMQ
 - **Other**: RESTful APIs, Responsive Design, Testing
-
-## 📂 Featured Projects
-
-### [Project One](https://github.com/Sylvester-Onyebuchi/project-one)
-A brief description of what this project does and the technologies used.
-
-### [Project Two](https://github.com/Sylvester-Onyebuchi/project-two)
-A brief description of what this project does and the technologies used.
-
-### [Project Three](https://github.com/Sylvester-Onyebuchi/project-three)
-A brief description of what this project does and the technologies used.
-
 
 ## 🌱 Currently Learning
 
