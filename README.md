@@ -9,10 +9,10 @@ I'm dedicated to writing clean, efficient code and creating meaningful projects.
 ## 🔧 Technical Skills
 
 - **Languages**: Java, Javascript
-- **Frontend**: React, Vue.js, HTML5, CSS3
+- **Frontend**: React, HTML, CSS
 - **Backend**: Springboot, Node.js, Express
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms**: Git, Docker, GitHub, IntelliJ, AWS, RabbitMQ
+- **Tools & Platforms**: Git, Docker, GitHub, IntelliJ, AWS, RabbitMQ, Digital Ocean
 - **Other**: RESTful APIs, Responsive Design, Testing
 
 ## 🌱 Currently Learning
