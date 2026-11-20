@@ -1,36 +1,56 @@
-# Hello, I'm Sylvester Onyebuchi 👋
+# Hi, I'm Sylvester Onah 👋
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building innovative solutions and contributing to the open-source community.
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
-## About Me
+I'm an Informatics student and aspiring backend developer based in Zagreb, Croatia, with a strong interest in building secure, reliable and scalable backend applications.
 
-I'm dedicated to writing clean, efficient code and creating meaningful projects. With a focus on continuous learning and growth, I enjoy solving complex problems and collaborating with talented developers from around the world.
+My primary focus is Java and Spring Boot. I enjoy working with REST APIs, database design, authentication and authorization, and backend application architecture.
 
-## 🔧 Technical Skills
+I believe in learning by building, so I spend much of my time developing practical projects, exploring backend technologies and improving my software engineering skills.
 
-- **Languages**: Java, Javascript
-- **Frontend**: React, HTML, CSS
-- **Backend**: Springboot, Node.js, Express
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms**: Git, Docker, GitHub, IntelliJ, AWS, RabbitMQ, Digital Ocean
-- **Other**: RESTful APIs, Responsive Design, Testing
+## 🛠️ Technical Skills
 
-## 🌱 Currently Learning
+**Programming Languages**
+- Java, Basics of JavaScript, C++, Python
 
-- Advanced system design patterns
-- Cloud architecture and deployment
-- Micro-Services architecture
+**Backend Development**
+- Spring Boot, Spring Security, Spring Data JPA
+- Spring cloud
+- Microservices Architecture
+- Object Oriented Programming
+- RESTful API Development
 
-## 💬 Let's Connect!
+**Authentication & Identity Management**
+- JWT, OAuth 2.0
+- Keycloak, AWS Cognito
 
-I'm always excited to collaborate on interesting projects and discuss ideas. Feel free to reach out!
+**Databases & Caching**
+- PostgreSQL, MySQL, MongoDB, Redis
 
-- **Email**: [sylvesteroyonah@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [https://www.linkedin.com/in/sylvester-onah-44798b304/](https://linkedin.com/in/your-profile)
+**Messaging & Event-Driven Architecture**
+- RabbitMQ, Apache Kafka
 
+**Cloud & DevOps**
+- AWS, DigitalOcean
+- Docker, Git, GitHub
+- GitHub Actions (CI/CD)
 
-## 🎯 Open to Opportunities
+**Frontend**
+- React, HTML, CSS
+  
+## 🌱 Currently Exploring
+- Advanced system design and design patterns
+- Terraform
+- Backend performance and scalability
+- Automated testing
 
-I'm open to freelance work, collaboration on open-source projects, and interesting job opportunities. Let's build something great together!
+## 🤝 Let's Connect
 
-- Hobbies: Everything about football 
+I'm always interested in connecting with developers, collaborating on interesting projects and exploring backend development opportunities.
+
+- **Email:** sylvesteronah@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sylvester-onah-b4798b304/
+
+## ⚽ Beyond Coding
+
+When I'm not coding, you'll probably find me playing or watching football.
